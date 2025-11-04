@@ -19,5 +19,9 @@ The analysis uses the [World Population Dataset 1970 – 2024 on Kaggle](https:/
 - Highlight continents with the fastest  population growth
 
 ## Example Visualizations
+
+**Figure 1:** Population Growth by Continent (1970–2024)  
 ![Population Growth by Continent](population_growth.png)
+
+**Figure 2:** Correlation Heatmap 
 ![Correlation Heatmap](heatmap.png)
